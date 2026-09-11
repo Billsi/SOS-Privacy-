@@ -1,6 +1,6 @@
 # Privacy Policy for SOS
 
-**Effective date:** [insert date]
+**Effective date:** September 11,2026
 
 This Privacy Policy explains how the SOS app ("the App", "we", "us") handles information. SOS is a simple two-player grid game, playable against a computer opponent or another person on the same device.
 
@@ -52,7 +52,7 @@ We may update this Privacy Policy if the App's functionality changes — for exa
 
 If you have questions about this Privacy Policy, contact us at:
 
-[insert contact email]
+thehobbylab@proton.me
 
 ---
 
